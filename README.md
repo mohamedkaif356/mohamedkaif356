@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohamedkaif356
+- 👋 Hi, I’m Mohamedkaif
 - 👀 I’m interested in Android Development, UI designing, Machine Learning, AI
 - 🌱 I’m currently learning B. Tech in Computer Science
 - 💞️ I’m looking to collaborate on Android Appliction and Machine learning projects Like Recommendation system
